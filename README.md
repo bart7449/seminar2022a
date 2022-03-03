@@ -22,7 +22,6 @@ This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr
 - 
 ### Class components and grading
 - Your grade will be recorded as a success or failure 
-- 
-|Event|Date|In-class Presentation|Materials and Assignments|
-|Week 1|4 March 2022|Course Introduction|None|
 
+|Event|Date| In-class Presentation| Materials and Assignments|
+|Week 1|4 March 2022| Course Introduction| None|

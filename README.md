@@ -29,5 +29,4 @@ This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr
 |Event|Date| In-class Presentation| Materials and Assignments|
 |---------|-------|----------------|------------|
 |Week 1|4 March 2022| Course Introduction| None|
-|Week 2|11 March 2022|Word embeddings|<a href="https://arxiv.org/pdf/1301.3781.pdf">Efficient Estimation of Word Representations in Vector Space</a> (original word2vec paper)<br>
-<a href="https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf">Distributed Representations of Words and Phrases and their Compositionality</a> (negative sampling paper)|
+|Week 2|11 March 2022|Word embeddings|<ul><li><a href="https://arxiv.org/pdf/1301.3781.pdf">Efficient Estimation of Word Representations in Vector Space</a> (original word2vec paper)<li><a href="https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf">Distributed Representations of Words and Phrases and their Compositionality</a> (negative sampling paper)|

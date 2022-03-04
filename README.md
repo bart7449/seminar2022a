@@ -1,11 +1,14 @@
 # Seminar II: Deep Learning-based Natural Language Processing
+Natural language processing (NLP) is a crucial part of artificial intelligence (AI), modeling how machine understand and generate human languages.  
+In recent years, deep learning approaches have obtained very high performance on many NLP tasks. 
+In this course, students will gain knowledge about cutting-edge neural networks for NLP.
 
 ## Course Information
 - This course meets for in-class lecture Fri 15:00 - 17:00 (Seminar room No.2 at KISTI KIUM).
-- In this seminar class, students are asked to review seminal papers related to NLP techniques and present them in class.
+- In this seminar class, students are asked to review seminal papers related to NLP techniques and present them in the class.
 - Two or three papers will be reviewed every week.
 - For all inquiries related to this course, please contact kyongha@kisti.re.kr
-- 
+
 ### Instructor
 This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr/prog/major/eng/sub03_03_02/IR/view.do?majorNo=32">KISTI campus</a>. 
 

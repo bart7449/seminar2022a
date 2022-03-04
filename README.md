@@ -31,6 +31,5 @@ This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr
 |Week 1|4 March 2022| Course Introduction| None|
 |Week 2|11 March 2022|Word embeddings<ul><li>Word2Vec<li>GloVe|<ul><li><a href="https://arxiv.org/pdf/1301.3781.pdf">Efficient Estimation of Word Representations in Vector Space</a> (original word2vec paper)<li><a href="https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf">Distributed Representations of Words and Phrases and their Compositionality</a>(negative sampling paper)|
 |Week 3|18 March 2022|<ul><li>Network archtecture<li>NLP from scratch|<ul><li><a href="https://cs231n.github.io/neural-networks-1/">cs231n notes on network architectures</a><li><a href="https://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf">Natural Language Processing(Almost from Scratch)</a>|
-|Week 4|18 March 2022|<ul><li>N-gram Language Models<li>Sequence Modeling:Recurrent and Recursive neural Nets|<ul><li>N-gram Language Models (textbook chapter)
-<li>The Unreasonable Effectiveness of Recurrent Neural Networks (blog post overview) <li>Sequence Modeling: Recurrent and Recursive Neural Nets (Sections 10.1 and 10.2)|  
+|Week 4|18 March 2022|<ul><li>N-gram Language Models<li>Sequence Modeling:Recurrent and Recursive neural Nets|<ul><li>N-gram Language Models (textbook chapter)<li>The Unreasonable Effectiveness of Recurrent Neural Networks (blog post overview) <li>Sequence Modeling: Recurrent and Recursive Neural Nets (Sections 10.1 and 10.2)|  
 |Week 5| | | |

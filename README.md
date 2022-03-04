@@ -35,7 +35,7 @@ This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr
 |Week 5|25 March 2022|<ul><li>N-gram Language Models<li>Sequence Modeling:Recurrent and Recursive neural Nets|<ul><li>N-gram Language Models (textbook chapter)<li>The Unreasonable Effectiveness of Recurrent Neural Networks (blog post overview) <li>Sequence Modeling: Recurrent and Recursive Neural Nets (Sections 10.1 and 10.2)|  
 |Week 5|1 April 2022|<ul><li>Vanishing gradients<li>Seq2Seq|<ul><li>Sequence Modeling: Recurrent and Recursive Neural Nets (Sections 10.3, 10.5, 10.7-10.12)<li>On the difficulty of training Recurrent Neural Networks (proof of vanishing gradient problem)<li>Vanishing Gradients Jupyter Notebook (demo for feedforward networks)<li>Understanding LSTM Networks (blog post overview)|
 |Week 6|8 April 2022|<ul><li>Machine translation<li>Attention mechanism|<ul><li>Sequence to Sequence Learning with Neural Networks (original seq2seq NMT paper)<li>Neural Machine Translation by Jointly Learning to Align and Translate (original seq2seq+attention paper)<li>Attention and Augmented Recurrent Neural Networks (blog post overview) |
-|Week 7|15 April 2022| | | 
+|Week 7|15 April 2022|Benchmarks |<ul><li>GLUE<li>KLUE|| 
 |Week 8|22 April 2022| | |
 |Week 9|29 April 2022| | |
 |Week 10|6 May 2022| | |

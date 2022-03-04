@@ -6,7 +6,7 @@ In this course, students will gain knowledge about cutting-edge neural networks 
 ## Course Information
 - This course meets for in-class lecture Fri 15:00 - 17:00 (Seminar room No.2 at KISTI KIUM).
 - In this seminar class, students are asked to review seminal papers related to NLP techniques and present them in the class.
-- Two or three papers will be reviewed every week.
+- Two or three papers will be reviewed every week. 
 - For all inquiries related to this course, please contact kyongha@kisti.re.kr
 
 ### Instructor
@@ -29,4 +29,5 @@ This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr
 |Event|Date| In-class Presentation| Materials and Assignments|
 |---------|-------|----------------|------------|
 |Week 1|4 March 2022| Course Introduction| None|
-|Week 2|11 March 2022|Word vector|       |
+|Week 2|11 March 2022|Word embeddings|<a href="https://arxiv.org/pdf/1301.3781.pdf">Efficient Estimation of Word Representations in Vector Space</a> (original word2vec paper)
+<a href="https://proceedings.neurips.cc/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf">Distributed Representations of Words and Phrases and their Compositionality</a> (negative sampling paper)|

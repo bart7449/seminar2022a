@@ -39,10 +39,10 @@ This seminar is supervised by Dr. Kyong-Ha Lee at <a href="https://www.ust.ac.kr
 |Week 9|29 April 2022|Transformer architecture<ul><li>Transformer(Juyeon)<li>Layer Normalization(Ikjae)|<ul><li><a href="https://arxiv.org/abs/1706.03762">Attention is all you need</a><li><a href="https://jalammar.github.io/illustrated-transformer/">The illustrated transformer</a><li><a href="https://arxiv.org/pdf/1607.06450.pdf">Layer Normalization</a>| 
 |Week 10|6 May 2022|<ul><li>BERT(Tergel)<li>Few-shot learner(Srivastava) |<ul><li><a href="https://arxiv.org/pdf/1810.04805.pdf">BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding</a><li><a href="http://jalammar.github.io/illustrated-bert/">The Illustrated BERT, ELMo, and co.</a><li><a href="https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf">Language models are few shot learners</a> |
 |Week 11|13 May 2022|BERT improvements<ul><li>RoBERTa and DeBERTa(Sunkyong)<li>Lightweighted BERT(Juyeon) |<ul><li><a href="https://arxiv.org/pdf/1907.11692.pdf%5C">RoBERTa</a><li><a href="https://arxiv.org/pdf/2006.03654.pdf">Deberta: Decoding-enhanced bert with disentangled attention</a><li><a href="https://arxiv.org/pdf/1909.11942.pdf?ref=https://githubhelp.com">Albert: A lite bert for self-supervised learning of language representations</a> |
-|Week 12|20 May 2022| | |
-|Week 13|27 May 2022| | |
-|Week 14|3 June 2022| | |
-|Week 15|10 June 2022| | |
-|Week 16|17 June 2022| | |
+|Week 12|20 May 2022|Integrating knowledge in language models(I) | |
+|Week 13|27 May 2022|Integrating knowledge in language models(II) | |
+|Week 14|3 June 2022|Retreval Augmented models | |
+|Week 15|10 June 2022|Question Anwering | |
+|Week 16|17 June 2022|Benchmarks and wrapup | |
 
   
